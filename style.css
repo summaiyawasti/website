@@ -1,0 +1,66 @@
+.logo{
+    font-family: 'Oleo Script Swash Caps', cursive;
+
+    font-size: 30pt;
+    color: rgb(124, 112, 122);
+    
+    padding-left: 10px;
+
+}
+.navbar{
+    background-color: pink !important;
+}
+.sized{
+    height: 60px;
+    width: auto;
+    padding-left: 30px;
+}
+.li{
+    padding-left: 350px !important;
+    align-items: center;
+}
+.styl{
+    height: 300px !important;
+    width: 300px !important;
+}
+
+  .zoom {
+    
+    
+    transition: transform .2s;
+    width: 300px;
+    height: 440px;
+    margin: 0 auto;
+  }
+  
+  .zoom:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
+
+
+.hotseller{
+font-family: futura-pt,Helvetica,Arial,sans-serif;
+
+}
+.centered {
+  text-align: center;
+  position: absolute;
+  top: 70%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-family: "Blossom";
+}
+body{
+  background-color: rgba(255, 255, 154, 0.925);
+}
+.footer {
+  position: relative;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:gray;
+  color: white;
+  text-align: center;
+}
